@@ -9,10 +9,18 @@ const quantidade = {
   "x09": "",
   "x10": "",
   "x11": "",
-  "x12": ""
+  "x12": "",
+  "x13": "",
+  "x14": "",
+  "x15": "",
+  "x16": "",
+  "x17": "",
+  "x18": "",
+  "x19": "",
+  "x20": ""
 }
 
 const modos = {
-  "somando": "",
-  "multiplicando": ""
+  "soma": "",
+  "multiplica": ""
 }
