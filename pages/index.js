@@ -18,7 +18,7 @@ export default wcube;
 
 let reset = {
   root: {
-    marginTop: '0px',
+    marginTop: '-10px',
   }
 }
 
