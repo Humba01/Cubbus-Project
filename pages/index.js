@@ -1,13 +1,13 @@
 import { React } from 'react';
 import { ReactDOM } from 'react-dom';
-import './Fonts.module.css';
-import './Reset.module.css';
-import './Cabecalho.module.css';
+import styles from './Fonts.module.css';
+import styles from './Reset.module.css';
+import styles from './Cabecalho.module.css';
 
 function wcube() {
   return (
-    <section className="cabecalho_cont">
-      <h1 className="cabecalho">HN-WCube</h1>
+    <section className={styles.cabecalho_cont}>
+      <h1 className={styles.cabecalho}>HN WCube</h1>
     </section>
   )
 }
