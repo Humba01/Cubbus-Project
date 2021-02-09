@@ -1,3 +1,5 @@
+import { React } from 'react';
+
 function wcube() {
   return (
     <section style={cabecalho.setorCabecalho}>
