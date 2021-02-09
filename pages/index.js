@@ -19,6 +19,7 @@ export default wcube;
 let cabecalho = {
   titulo: {
     fontFamily: 'Ubuntu',
+    fontWeight: '100',
     backgroundColor: '#000000',
     color: '#ffffff'
   }
