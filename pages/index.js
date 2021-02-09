@@ -4,8 +4,8 @@ function wcube() {
   return (
     <body>
       <link rel="stylesheet" href="../css/fonts.css"></link>
-      <section className={styles3.cabecalho_cont}>
-        <h1 className={{fontFamily:"Ubuntu-Light"}}>HN WCube</h1>
+      <section>
+        <h1 style={{fontFamily:"Ubuntu-Light"}}>HN WCube</h1>
       </section>
     </body>
   )
