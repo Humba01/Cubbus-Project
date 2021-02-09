@@ -9,7 +9,7 @@ function wcube() {
         <link rel="preload" href="/public/fonts/Ubuntu/Ubuntu-Light.ttf" as="font" crossOrigin=""></link>
       </Head>
       <section>
-        <h1 style={{fontFamily: UbuntuLight}}>HN WCube</h1>
+        <h1 style={{fontFamily: "Ubuntu-Light"}}>HN WCube</h1>
       </section>
     </div>
   )
