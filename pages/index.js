@@ -3,12 +3,17 @@ import { React } from 'react';
 function wcube() {
   return (
     <body>
-      <link rel="stylesheet" href="../css/fonts.css"></link>
       <section>
-        <h1 style={{fontFamily:"Ubuntu-Light"}}>HN WCube</h1>
+        <h1 style={{fontFamily: UbuntuLight}}>HN WCube</h1>
       </section>
     </body>
   )
 }
 
 export default wcube;
+
+export default props => {
+  let [fontsLoaded] = useFonts({
+    UbuntuLight: require('../fonts/Ubuntu-Light.ttf'),
+  });
+}
