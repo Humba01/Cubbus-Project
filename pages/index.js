@@ -2,23 +2,30 @@ import { React } from 'react';
 
 function wcube() {
   return (
-    <div>
-      <link rel="preconnect" href="https://fonts.gstatic.com"/>
-      <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet"/>
-      <section style={cabecalho.cabecalhoCont}>
-        <h1 style={cabecalho.titulo}>HN WCube</h1>
-      </section>
-    </div>
+    <html style={reset.root}>
+      <div>
+        <link rel="preconnect" href="https://fonts.gstatic.com"/>
+        <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet"/>
+        <section style={cabecalho.cabecalhoCont}>
+          <h1 style={cabecalho.titulo}>HN WCube</h1>
+        </section>
+      </div>
+    </html>
   )
 }
 
 export default wcube;
 
+let reset = {
+  root: {
+    marginTop: '-20px',
+  }
+}
+
 let cabecalho = {
   cabacalhoCont: {
     margin: '0px',
     width: '100vw',
-    marginTop: '-20px',
     backgroundColor: '#000000'
   },
   titulo: {
