@@ -25,6 +25,7 @@ let cabecalho = {
     fontFamily: 'Ubuntu',
     fontWeight: '100',
     backgroundColor: '#6600ff',
-    color: '#ffffff'
+    color: '#ffffff',
+    display: 'inline-block'
   }
 }
