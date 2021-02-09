@@ -18,12 +18,13 @@ let cabecalho = {
   cabacalhoCont: {
     margin: '0px',
     width: '100vw',
-    marginTop: '-20px'
+    marginTop: '-20px',
+    backgroundColor: '#000000'
   },
   titulo: {
     fontFamily: 'Ubuntu',
     fontWeight: '100',
-    backgroundColor: '#000000',
+    backgroundColor: '#6600ff',
     color: '#ffffff'
   }
 }
