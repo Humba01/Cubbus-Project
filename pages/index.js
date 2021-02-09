@@ -8,8 +8,6 @@ function wcube() {
   )
 }
 
-export default wcube;
-
 const cabecalho = StyleSheet.create({
   setorCabecalho: {
     backgroundColor: "#000000",
@@ -17,3 +15,5 @@ const cabecalho = StyleSheet.create({
     fontFamily: "Ubuntu-Light"
   }
 });
+
+export default wcube;
