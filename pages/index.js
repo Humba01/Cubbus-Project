@@ -16,7 +16,7 @@ export default wcube;
 
 let cabecalho = {
   cabacalhoCont: {
-    margin: 0,
+    margin: '0px',
     width: '100vw'
   },
   titulo: {
