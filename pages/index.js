@@ -24,6 +24,7 @@ let reset = {
 
 let cabecalho = {
   cabacalhoCont: {
+    display: 'inline-block',
     margin: '0px',
     width: '100vw',
     backgroundColor: '#000000'
