@@ -6,8 +6,8 @@ import './Cabecalho.module.css';
 
 function wcube() {
   return (
-    <section className="cabecalho">
-      <h1>HN-WCube</h1>
+    <section className="cabecalho_cont">
+      <h1 className="cabecalho">HN-WCube</h1>
     </section>
   )
 }
