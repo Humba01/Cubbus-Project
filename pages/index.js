@@ -1,5 +1,3 @@
-import "./../css/fonts.css";
-
 function wcube() {
   return (
     <section style={cabecalho.setorCabecalho}>
