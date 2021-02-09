@@ -17,7 +17,8 @@ export default wcube;
 let cabecalho = {
   cabacalhoCont: {
     margin: '0px',
-    width: '100vw'
+    width: '100vw',
+    marginTop: '-20px'
   },
   titulo: {
     fontFamily: 'Ubuntu',
