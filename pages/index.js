@@ -5,7 +5,7 @@ import { Head } from 'next/head';
 function wcube() {
   return (
     <div>
-      <link rel="preload" href="/public/fonts/Ubuntu/Ubuntu-Light.ttf" as="font" crossOrigin=""></link>
+      <link rel="stylesheet" href="./public/fonts/Ubuntu/Ubuntu-Light.ttf"></link>
       <section>
         <h1 style={{fontFamily: "Ubuntu-Light"}}>HN WCube</h1>
       </section>
