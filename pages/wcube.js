@@ -7,16 +7,12 @@ function wcube() {
     <title>Humbanew WCube | O incrível jogo dos cubos matemáticos.</title>
     <link rel="icon" href="svg/logo/new-logo/Humbanew Logo (Design) - 2.0 - 12º Gen - Branco.svg"/>
 
-    <!-- build:css css/wcube_page.css -->
-
     <link rel="stylesheet" href="css/reset.css"/>
     <link rel="stylesheet" href="css/fonts.css"/>
     <link rel="stylesheet" href="css/pag-inicial/cabecalho.css"/>
     <link rel="stylesheet" href="css/pag-inicial/rodape.css"/>
     <link rel="stylesheet" href="css/wcube/lists/lists.css"/>
     <link rel="stylesheet" href="css/wcube/slogan/slogan.css"/>
-
-    <!-- endbuild -->
 
   </head>
   <body>
@@ -26,7 +22,6 @@ function wcube() {
         <img src="svg/logo/new-logo/Humbanew Logo (Design) - 2.0 - 12º Gen - Preto.svg" alt="Humbanew Logo" class="logo_part_i"/>
         <div class="cab_conteiner_title">
           <h1 class="text1_title">Humbanew WCube</h1>
-        <!-- <p class="text2_title" id="beta_text">Beta</p> -->
         </div>
       </div>
     </header>
