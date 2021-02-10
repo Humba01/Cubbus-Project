@@ -3,7 +3,6 @@ import Image from 'next/image';
 
 function wcube() {
   return (
-  <div>
     <html>
       <head>
         <meta charset="UTF-8"/>
@@ -14,17 +13,15 @@ function wcube() {
       <body>
         <header class="cabecalho_conteiner">
           <div class="cabecalho_cont_parent" id="btn_main">
-            <Image src="./assets/logo/new-logo/Humbanew Logo (Design) - 2.0 - 12º Gen - Teste.svg"/>          
+            <Image src="./assets/logo/new-logo/Humbanew Logo (Design) - 2.0 - 12º Gen - Preto.svg" layout="responsive" />          
           </div>
           <div class="cab_conteiner_title">
             <h1 class="text1_title">Humbanew WCube</h1>
           </div>
         </header>
-
         <section class="unote_slogan">
           <p class="unote_text_slogan" id="slogan">O incrível jogo dos cubos matemáticos.</p>
         </section>
-
       </body>
       <footer>
         <section class="rodape">
@@ -32,7 +29,6 @@ function wcube() {
         </section>
       </footer>
     </html>
-  </div>
   )
 }
 
