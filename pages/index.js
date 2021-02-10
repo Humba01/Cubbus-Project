@@ -38,7 +38,7 @@ function wcube() {
 }
 
 let sourceLogo = {
-  hnLogo: "../svg/logo/new-logo/Humbanew Logo (Design) - 2.0 - 12º Gen - Teste.svg"
+  hnLogo: "./assets/logo/new-logo/Humbanew Logo (Design) - 2.0 - 12º Gen - Branco.svg"
 }
 
 export default wcube;
