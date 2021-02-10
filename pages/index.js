@@ -17,9 +17,8 @@ function wcube() {
             <Image
               src="/svg/logo/new-logo/Humbanew Logo (Design) - 2.0 - 12º Gen - Teste.svg"
               alt="Humbanew Logo Design"
-              width={'65px'}
-              height={'65px'}
-              class="logo_part_i" 
+              width={6.5}
+              height={6.5} 
             />
             <div class="cab_conteiner_title">
               <h1 class="text1_title">Humbanew WCube</h1>
