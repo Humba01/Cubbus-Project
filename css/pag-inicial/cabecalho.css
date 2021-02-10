@@ -25,14 +25,15 @@
     color: #eeeeee;
     text-shadow: 2px 2px #000000;
     margin-left: 40vw;
-    margin-top: 1vw;
+    margin-top: 4vw;
+    padding-top: 4vw;
     margin-bottom: 0;
     width: 50vw;
     padding: 0.6vw 0.4vw;
     text-align: center;
     align-content: center;
-    border-top-left-radius: 8px;
-    border-top-right-radius: 7px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 7px;
 
 }
 
