@@ -1,9 +1,6 @@
 .cabecalho_conteiner {
     display: inline-block;
     width: 100vw;
-    border-bottom-color: #444444;
-    border-bottom-width: 0.2vw;
-    border-bottom-style: solid;
     position: -webkit-sticky;
     position: sticky;
     z-index: 1;
