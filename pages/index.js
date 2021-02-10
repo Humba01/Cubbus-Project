@@ -14,11 +14,11 @@ function wcube() {
       <body>
         <header class="cabecalho_conteiner">
           <div class="cabecalho_cont_parent" id="btn_main">
-            <Image
+            <img
               src="/svg/logo/new-logo/Humbanew Logo (Design) - 2.0 - 12º Gen - Teste.svg"
               alt="Humbanew Logo Design"
-              width={6.5}
-              height={6.5} 
+              width='65px'
+              height='65px' 
             />
             <div class="cab_conteiner_title">
               <h1 class="text1_title">Humbanew WCube</h1>
