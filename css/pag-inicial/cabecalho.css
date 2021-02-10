@@ -1,6 +1,5 @@
 .cabecalho_conteiner {
     display: inline-block;
-    background-color: #000000ff;
     width: 100vw;
     border-bottom-color: #444444;
     border-bottom-width: 0.2vw;
@@ -9,6 +8,10 @@
     position: sticky;
     z-index: 1;
     top: 0;
+}
+
+.cabecalho_cont_parent {
+    background-color: #000000ff;
 }
 
 .logo_part_i {
