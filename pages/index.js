@@ -1,4 +1,5 @@
-import { React } from 'react';
+import React from 'react';
+import Image from 'next/image';
 
 function wcube() {
   return (
@@ -13,7 +14,7 @@ function wcube() {
       <body>
         <header class="cabecalho_conteiner">
           <div class="cabecalho_cont_parent" id="btn_main">
-            <img src="./assets/logo/new-logo/Humbanew Logo (Design) - 2.0 - 12º Gen - Branco.svg" alt="Humbanew Logo" class="logo_part_i"/>
+            <Image src="./assets/logo/new-logo/Humbanew Logo (Design) - 2.0 - 12º Gen - Teste.svg"/>          
           </div>
           <div class="cab_conteiner_title">
             <h1 class="text1_title">Humbanew WCube</h1>
