@@ -8,14 +8,14 @@ function wcube() {
         <meta charset="UTF-8"/>
         <meta lang="pt-br"/>
         <title>Humbanew WCube | O incrível jogo dos cubos matemáticos.</title>
-        <link rel="icon" href="svg/logo/new-logo/Humbanew Logo (Design) - 2.0 - 12º Gen - Branco.svg"/>
+        <link rel="icon" href="../svg/logo/new-logo/Humbanew Logo (Design) - 2.0 - 12º Gen - Branco.svg"/>
 
       </head>
       <body>
         
         <header class="cabecalho_conteiner">
           <div class="cabecalho_cont_parent" id="btn_main">
-            <img src="svg/logo/new-logo/Humbanew Logo (Design) - 2.0 - 12º Gen - Preto.svg" alt="Humbanew Logo" class="logo_part_i"/>
+            <img src="../svg/logo/new-logo/Humbanew Logo (Design) - 2.0 - 12º Gen - Preto.svg" alt="Humbanew Logo" class="logo_part_i"/>
             <div class="cab_conteiner_title">
               <h1 class="text1_title">Humbanew WCube</h1>
             </div>
